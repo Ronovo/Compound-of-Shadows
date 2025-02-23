@@ -1,0 +1,2 @@
+def roll(number):
+    random.
