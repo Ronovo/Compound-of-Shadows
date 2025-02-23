@@ -15,6 +15,6 @@
 ### 2.) Download the project (Through Git or File Download)
 
 ### 3.) Navigate to file with Powershell/Command Prompt
-  - cd (drive)/(File Location)/standalonegamesystem
-  - Once there, run "python ./main.py"
+  - cd (drive)/(File Location)/Compound-of-Shadows
+  - Once there, run "python main.py"
 ### 4.) Game should start in your terminal window
